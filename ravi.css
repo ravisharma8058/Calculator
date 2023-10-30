@@ -11,13 +11,15 @@
         font-size: 34px;
         border-radius: 5px;
         border: 1px solid black;
+        padding-left: 30px;
     }
     .good{
         display: inline-block;
         border: 2px solid ;
-        background-color:rgb(134, 123, 230);
-         border-radius: 15px;
-         padding: 10px;
+        background-color:rgb(174, 198, 210);
+        border-radius: 15px;
+        box-shadow: inset;
+        padding: 12px;
     }
     button{
         width: 54px;
