@@ -1,0 +1,27 @@
+.container{
+    margin: auto;
+    margin-left: 500px;
+    
+    font-size: 20px;
+    }
+    input{
+        width: 212px;
+        height: 35px;
+        margin:auto;
+        font-size: 34px;
+        border-radius: 5px;
+        border: 1px solid black;
+    }
+    .good{
+        display: inline-block;
+        border: 2px solid ;
+        background-color:rgb(134, 123, 230);
+         border-radius: 15px;
+         padding: 10px;
+    }
+    button{
+        width: 54px;
+        height: 40px;
+        font-size: 25px;
+        border-radius: 10px;
+    }
